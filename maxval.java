@@ -5,6 +5,8 @@ public class maxval {
         int b = 7;
         int c = 3;
 
+        //Find Maximum of Three Numbers:
+        
         int max = a;
 
         if(max<b) max=b;
